@@ -10,7 +10,7 @@
 
 - [About](#About)
 - [Folder structure](#getting_started)
-- [Autores](#authors)
+- [Authors](#authors)
 
 ## 🧐 About <a name = "About"></a>
 
@@ -28,7 +28,7 @@ datasets/                                : Folder that contains the dataset with
         {gt_position}_{syn_position}.jpg : Synthetic image name template. `gt_position` means 'ground-truth image position' and ranges from 0 to 9899. `syn_position` means 'synthetic image position' and ranges from 0 to 2.
 ```
 
-## ✍️ Autores <a name = "authors"></a>
+## ✍️ Authors <a name = "authors"></a>
 
 Developed by HP VIALAB at SENAI CIMATEC.
 
