@@ -1,0 +1,13 @@
+;BPM_pred;Rejected rate;Peaks_pred
+subjectHeli3_frowning_end_pred;109,46;0,0;10
+subjectHeli3_frowning_end_sim;102,53;0,0;10
+subjectJasmineYan_01_laughing_pred;123,66;8,33;12
+subjectJasmineYan_01_laughing_sim;124,14;0,0;13
+subjectRob_Brianna1_frowning_start_pred;100,0;0,0;7
+subjectRob_Brianna1_frowning_start_sim;97,3;0,0;7
+subjectRob_Brianna2_laughing_pred;123,29;37,5;16
+subjectRob_Brianna2_laughing_sim;103,45;0,0;11
+subject33s_heli_pred;120,75;21,88;64
+subject33s_heli_sim;107,55;0,0;58
+mean_pred;115,43;13,54;21.8
+mean_sim;106,99;0,0;19.8

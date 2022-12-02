@@ -1,0 +1,14 @@
+__pycache__/
+**/.*.sw[ponlmkj]
+*.py[cod]
+*$py.class
+*.o
+*.so
+*.so.dSYM
+checkpoints
+data/vids
+data/output
+logs
+
+.__afs*
+*DS_Store
